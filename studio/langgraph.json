@@ -7,7 +7,8 @@
     "chatbot": "./chatbot.py:graph",
     "dynamic_breakpoints": "./dynamic_breakpoints.py:graph",
     "parallelization": "./parallelization.py:graph",
-    "sub_graphs": "./sub_graphs.py:graph"
+    "sub_graphs": "./sub_graphs.py:graph",
+    "map_reduce": "./map_reduce.py:graph"
   },
   "env": "./.env",
   "python_version": "3.11",
