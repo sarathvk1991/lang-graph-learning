@@ -11,3 +11,4 @@ langchain-tavily
 wikipedia
 trustcall
 langgraph-cli[inmem]
+pygraphviz
