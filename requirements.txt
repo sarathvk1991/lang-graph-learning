@@ -12,3 +12,5 @@ wikipedia
 trustcall
 langgraph-cli[inmem]
 pygraphviz
+tavily
+ddgs
