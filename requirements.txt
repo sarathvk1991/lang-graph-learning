@@ -14,3 +14,4 @@ langgraph-cli[inmem]
 pygraphviz
 tavily
 ddgs
+gradio
